@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122849701062",
+    "project_id": "chat-app-b8930",
+    "storage_bucket": "chat-app-b8930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122849701062:android:9e102949b3a71368a5bbc7",
+        "android_client_info": {
+          "package_name": "com.nyx.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122849701062-qtc8g7f3sknv9kfk04n45g7ofib3v9al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2-hci71bPg-37hPQJFJvivBQ8YhmzKVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122849701062-qtc8g7f3sknv9kfk04n45g7ofib3v9al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

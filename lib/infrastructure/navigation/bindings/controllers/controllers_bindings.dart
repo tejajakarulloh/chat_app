@@ -1,0 +1,1 @@
+export 'package:chat_app/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
